@@ -1,1 +1,2 @@
 # Week-12-MongoDB-Task
+This project demonstrates the basic operations of MongoDB, including database and collection creation, and CRUD (Create, Read, Update, Delete) operations. It involves inserting student data, retrieving records using filters and query operators, updating single and multiple documents, and deleting records. A real-world use case is implemented to show how MongoDB can be applied in practical scenarios like a Library or Student Management System.
